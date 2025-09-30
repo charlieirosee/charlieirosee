@@ -1,4 +1,4 @@
-
+Charlie Rosee CS Northeastern '28
 
 <!--
 **charlieirosee/charlieirosee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
